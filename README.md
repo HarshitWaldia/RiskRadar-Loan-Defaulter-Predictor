@@ -1,10 +1,11 @@
-> ## ⚠️ Important Note  
-> Due to hackathon time shortage and a few quick mistakes, this repo may not be completely polished.
 > # 🏦 LoanSense.AI - Loan Default Prediction – Bank Indessa
 
 ### *Machine Learning solution to identify potential loan defaulters*
 
 > **Hackathon Project • AUC-ROC Evaluation • December 2016 Lending Dataset**
+
+> ## ⚠️ Important Note  
+> Due to hackathon time shortage and a few quick mistakes, this repo may not be completely polished.
 
 ---
 
